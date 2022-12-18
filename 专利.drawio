@@ -1,1 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T10:50:18.691Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.4.0" etag="UHdvDcpnWBh9xoqwE4SI" type="github"><diagram id="3qaALhdTLnA4fLEq_TBh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-18T11:11:33.466Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="gFsbh40ty4wTFPjTcdRi" version="20.4.0" type="github">
+  <diagram id="3qaALhdTLnA4fLEq_TBh" name="第 1 页">
+    <mxGraphModel dx="1572" dy="654" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_EBpnCJanrSPKFrGreKf-1" value="省+市+县+镇" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EBpnCJanrSPKFrGreKf-2" value="XX超市+地址经纬度+次晨达" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="162" y="144" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EBpnCJanrSPKFrGreKf-3" value="XX营业部+地址经纬度+211限时达" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;align=left;" vertex="1" parent="1">
+          <mxGeometry x="162" y="235" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EBpnCJanrSPKFrGreKf-4" value="XX酒店+地址经纬度+特惠送" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;align=center;" vertex="1" parent="1">
+          <mxGeometry x="162" y="333" width="184" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EBpnCJanrSPKFrGreKf-5" value="XX便利店+地址经纬度+京准达" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="165" y="431" width="183" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EBpnCJanrSPKFrGreKf-6" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_EBpnCJanrSPKFrGreKf-3">
+          <mxGeometry width="120" relative="1" as="geometry">
+            <mxPoint x="20" y="320" as="sourcePoint" />
+            <mxPoint x="191" y="336" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EBpnCJanrSPKFrGreKf-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_EBpnCJanrSPKFrGreKf-1" target="_EBpnCJanrSPKFrGreKf-2">
+          <mxGeometry width="120" relative="1" as="geometry">
+            <mxPoint x="68" y="320.5" as="sourcePoint" />
+            <mxPoint x="188" y="320.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EBpnCJanrSPKFrGreKf-8" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;entryX=-0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_EBpnCJanrSPKFrGreKf-4">
+          <mxGeometry width="120" relative="1" as="geometry">
+            <mxPoint x="21" y="319" as="sourcePoint" />
+            <mxPoint x="165" y="283" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EBpnCJanrSPKFrGreKf-9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_EBpnCJanrSPKFrGreKf-5">
+          <mxGeometry width="120" relative="1" as="geometry">
+            <mxPoint x="21" y="320" as="sourcePoint" />
+            <mxPoint x="155.00000000000023" y="398" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
